@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/*@layer utilities{
+    .peer:checked ~ label>.translate-toggle{
+        transform: translateX(24px);
+        background: gray;
+    }
+}*/
